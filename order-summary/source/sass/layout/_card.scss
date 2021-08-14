@@ -1,0 +1,89 @@
+.card{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 40rem;
+    height: 65rem;
+    box-shadow: 0px 15px 29px -25px rgba(97,97,97,1);
+    overflow: hidden;
+    border-radius: 2rem;
+    background-color: white;
+    min-width: 325px;
+}
+@media (max-width: $mobile) { 
+    .card{
+        width: 90%;
+        height: 65rem;
+    }
+}
+.card__image{
+    width: 100%;
+    display: inherit;
+}
+.card__title{
+    font-weight: $black;
+    text-align: center;
+    margin: 4rem auto 2.5rem auto;
+}
+.card__paragraph{
+    font-size: 1.7rem;
+    font-weight: $regular;
+    text-align: center;
+    margin: 1rem auto;
+    color: $desaturated-blue;
+}
+.container__plan{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    background-color: $very-pale-blue;
+    width: 90%;
+    margin: 2rem auto;
+    border-radius: 1.5rem;
+    .plan__image{
+        margin-left: 4rem;
+    }
+    .plan__paragraph{
+        font-weight: $black;
+        font-size: 2rem;
+    }
+    .plan__paragraph span{
+        font-weight: $regular;
+        font-size: 1.6rem;
+    }
+    .plan__link{
+        margin: 0rem auto;
+        width: auto;
+    }
+    .plan__link:hover{
+        color: $bright-blue;
+        text-decoration: none;
+    }
+}
+.button{
+    margin: 3rem auto;
+    display: block;
+    text-decoration: none;
+    width: 85%;
+    text-align: center;
+}
+.button--pay{
+    background-color: $bright-blue;
+    padding: 2rem 3rem;
+    border-radius: 1.5rem;
+    color: white;
+    font-weight: bold;
+}
+.button--pay:hover{
+    background-color: #3829e0a1;
+}
+.button--cancel{
+    color: $desaturated-blue;
+    font-weight: bold;
+}
+.button--cancel:hover{
+    color: black;
+}

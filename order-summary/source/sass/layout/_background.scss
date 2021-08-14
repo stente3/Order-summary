@@ -1,0 +1,16 @@
+body{
+    background-color: $bg;
+    background-image: url(../assets/img/pattern-background-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+@media (min-width: $desktop) { 
+    body{
+        background-image: url(../assets/img/pattern-background-desktop.svg);
+    }
+}
+.container__center{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
