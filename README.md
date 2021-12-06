@@ -95,7 +95,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/stente3/Or
 
 Camilo Andrés Fuentes Morales - mikarinkitamo1346@gmail.com
 
-Project Link: [https://frontend-sunnyside-agency.netlify.app/](https://frontend-sunnyside-agency.netlify.app/)
+Project Link: [https://frontend-sunnyside-agency.netlify.app/](https://page-order-summary.netlify.app/)
 
 
 ## Acknowledgments
