@@ -32,7 +32,6 @@ This is a challenge taken from the "Frontend Mentor" website, it was made with t
 ### Built With
 
 * [HTML5](https://developer.mozilla.org/en/docs/Web/HTML)
-* [DOM](https://lenguajejs.com/javascript/dom/que-es/#:~:text=En%20Javascript%2C%20cuando%20nos%20referimos,de%20texto%2C%20etc...)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [SASS](https://sass-lang.com/documentation)
 * [Responsive design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
