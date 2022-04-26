@@ -102,4 +102,5 @@ Project Link: [https://page-order-summary.netlify.app/](https://page-order-summa
 * [Frontend Mentor](https://www.frontendmentor.io/)
 * [Netlify](https://www.netlify.com/)
 * [Fonts Google](https://fonts.google.com/)
+* [Normalize CSS](https://necolas.github.io/normalize.css/)
 * [Othneildrew](https://github.com/othneildrew/Best-README-Template)
